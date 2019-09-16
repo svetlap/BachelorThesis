@@ -1,0 +1,1 @@
+system('D:\Svetla\TU\BachelorThesis\[3]C++\RosBag_reader\RosBag_reader\x64\Release\RosBag_reader.exe "D:\Svetla\TU\BachelorThesis\[2]Datasets\imageFile.txt" "D:\Svetla\TU\BachelorThesis\Example_output\frame_"');
